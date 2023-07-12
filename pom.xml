@@ -66,6 +66,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>rest_springboot</finalName>
 	</build>
 
 </project>
