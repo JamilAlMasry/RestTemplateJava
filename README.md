@@ -1,0 +1,1 @@
+## In the application.properties, I used localhost:3306 (locally not with docker) because it made some conflicts using docker (I used previously a container named 'mysql-db' I was able to run the docker container but it made some conflicts with it)
